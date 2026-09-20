@@ -6,8 +6,6 @@ I am a Computer Science researcher interested in the intersection of **climate s
 
 My work focuses on using computational and data-driven approaches to understand **rainfall variability, climate extremes, hydrological processes, and environmental risks**, particularly in data-constrained regions.
 
----
-
 ## 🔬 Research Interests
 
 🌧️ Hydrometeorology & Climate Science  
@@ -20,8 +18,6 @@ My work focuses on using computational and data-driven approaches to understand 
 🌊 Environmental & Coastal Modeling  
 ⚠️ Climate & Hazard Risk Modeling  
 📊 Spatiotemporal & Time-Series Analysis
-
----
 
 ## 🧪 Current Research
 
@@ -41,8 +37,6 @@ My research combines:
 - Spatiotemporal analysis
 
 I am particularly interested in understanding how **climate variability and changing precipitation patterns** can be modeled using both statistical and AI-based approaches.
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -79,8 +73,6 @@ I am particularly interested in understanding how **climate variability and chan
 🌧️ Precipitation Data • 🌡️ Temperature Data • 🌬️ Atmospheric Data  
 📈 Time Series • 📊 Statistical Analysis • 🔢 Numerical Modeling
 
----
-
 ### 🗺️ GIS & Geospatial Science
 
 `QGIS` `ArcGIS` `GeoPandas` `Rasterio` `GDAL`  
@@ -92,8 +84,6 @@ I am particularly interested in understanding how **climate variability and chan
 🗺️ Raster & Vector Data  
 📡 Earth Observation  
 🌐 Spatial Databases
-
----
 
 ### ☁️ Cloud, HPC & Research Computing
 
@@ -116,8 +106,6 @@ Interested in scalable computing for **climate modeling, geospatial analysis, an
 
 Interested in connecting **field observations, sensor data, geospatial information, and computational models** for environmental monitoring.
 
----
-
 ## 📚 Research Methods
 
 🌧️ Rainfall & Precipitation Analysis  
@@ -132,27 +120,3 @@ Interested in connecting **field observations, sensor data, geospatial informati
 💧 Hydrological Modeling  
 ⚠️ Hazard & Climate Risk Modeling
 
----
-
-## 🚀 Research Journey
-
-```text
-Computer Science
-       │
-       ▼
-Data & Programming
-       │
-       ▼
-Artificial Intelligence
-       │
-       ▼
-Climate & Environmental Data
-       │
-       ▼
-Hydrometeorology & Hydrology
-       │
-       ▼
-GIS + Remote Sensing + Spatial Science
-       │
-       ▼
-AI for Climate & Environmental Research
