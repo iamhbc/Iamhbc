@@ -120,3 +120,6 @@ Interested in connecting **field observations, sensor data, geospatial informati
 💧 Hydrological Modeling  
 ⚠️ Hazard & Climate Risk Modeling
 
+## 📊 GitHub Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamhbc)](https://git.io/streak-stats)
