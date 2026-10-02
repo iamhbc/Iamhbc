@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hikmat Budha Chhetri
 
-### 🌍 Hydrometeorology & Climate Researcher | AI • GIS • Geospatial Data Science
+### Hydrometeorology & Climate Researcher | AI • GIS • Geospatial Data Science
 
 I am a Computer Science researcher interested in the intersection of **climate science, hydrometeorology, artificial intelligence, and geospatial data**.
 
@@ -8,20 +8,20 @@ My work focuses on using computational and data-driven approaches to understand 
 
 ## 🔬 Research Interests
 
-🌧️ Hydrometeorology & Climate Science  
-🌦️ Rainfall & Extreme Precipitation  
-💧 Hydrology & Water Resources  
-🌍 Climate Variability & Change  
-🤖 AI & Machine Learning for Earth Science  
-🛰️ Remote Sensing & Earth Observation  
-🗺️ GIS & Geospatial Data Science  
-🌊 Environmental & Coastal Modeling  
-⚠️ Climate & Hazard Risk Modeling  
-📊 Spatiotemporal & Time-Series Analysis
+Hydrometeorology & Climate Science  
+Rainfall & Extreme Precipitation  
+Hydrology & Water Resources  
+Climate Variability & Change  
+AI & Machine Learning for Earth Science  
+Remote Sensing & Earth Observation  
+GIS & Geospatial Data Science  
+Environmental & Coastal Modeling  
+Climate & Hazard Risk Modeling  
+Spatiotemporal & Time-Series Analysis
 
-## 🧪 Current Research
+## Current Research
 
-### 🌧️ Rainfall & Climate Modeling — Nepal
+### Rainfall & Climate Modeling — Nepal
 
 I am working with long-term daily precipitation observations from **Birendranagar, Surkhet, Nepal**, exploring changes in rainfall characteristics and monsoon behavior.
 
@@ -38,9 +38,9 @@ My research combines:
 
 I am particularly interested in understanding how **climate variability and changing precipitation patterns** can be modeled using both statistical and AI-based approaches.
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 💻 Programming & Computing
+### Programming & Computing
 
 <p align="left">
 
@@ -52,7 +52,7 @@ I am particularly interested in understanding how **climate variability and chan
 
 ---
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p align="left">
 
@@ -65,27 +65,27 @@ I am particularly interested in understanding how **climate variability and chan
 
 ---
 
-### 📊 Scientific & Climate Data
+### Scientific & Climate Data
 
 `NumPy` `Pandas` `SciPy` `Xarray` `NetCDF` `Matplotlib`  
 `Seaborn` `Jupyter` `Google Colab`
 
-🌧️ Precipitation Data • 🌡️ Temperature Data • 🌬️ Atmospheric Data  
-📈 Time Series • 📊 Statistical Analysis • 🔢 Numerical Modeling
+Precipitation Data • Temperature Data •  Atmospheric Data  
+Time Series • Statistical Analysis •  Numerical Modeling
 
-### 🗺️ GIS & Geospatial Science
+###  GIS & Geospatial Science
 
 `QGIS` `ArcGIS` `GeoPandas` `Rasterio` `GDAL`  
 `GRASS GIS` `PostGIS` `Google Earth Engine`
 
-🛰️ Remote Sensing  
-🌍 Satellite Data  
-📍 Spatial Analysis  
-🗺️ Raster & Vector Data  
-📡 Earth Observation  
-🌐 Spatial Databases
+Remote Sensing  
+Satellite Data  
+Spatial Analysis  
+Raster & Vector Data  
+Earth Observation  
+Spatial Databases
 
-### ☁️ Cloud, HPC & Research Computing
+### Cloud, HPC & Research Computing
 
 `AWS` `Linux` `Docker` `Git` `GitHub`  
 `Jupyter` `Google Colab` `HPC`
@@ -94,7 +94,7 @@ Interested in scalable computing for **climate modeling, geospatial analysis, an
 
 ---
 
-### 🌐 IoT & Environmental Sensing
+### IoT & Environmental Sensing
 
 <p align="left">
 
@@ -106,19 +106,19 @@ Interested in scalable computing for **climate modeling, geospatial analysis, an
 
 Interested in connecting **field observations, sensor data, geospatial information, and computational models** for environmental monitoring.
 
-## 📚 Research Methods
+## Research Methods
 
-🌧️ Rainfall & Precipitation Analysis  
-📈 Trend & Time-Series Analysis  
-📊 Statistical Modeling  
-🔄 Change-Point Detection  
-🤖 Machine Learning  
-🧠 Deep Learning  
-🗺️ Spatial & Geospatial Analysis  
-🛰️ Remote Sensing  
-🌍 Climate Data Analysis  
-💧 Hydrological Modeling  
-⚠️ Hazard & Climate Risk Modeling
+Rainfall & Precipitation Analysis  
+Trend & Time-Series Analysis  
+Statistical Modeling  
+Change-Point Detection  
+Machine Learning  
+Deep Learning  
+Spatial & Geospatial Analysis  
+Remote Sensing  
+Climate Data Analysis  
+Hydrological Modeling  
+Hazard & Climate Risk Modeling
 
 ## 📊 GitHub Contributions
 
