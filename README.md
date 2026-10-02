@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hikmat Budha Chhetri
+# Hi, I'm Hikmat Budha Chhetri
 
 ### Hydrometeorology & Climate Researcher | AI • GIS • Geospatial Data Science
 
