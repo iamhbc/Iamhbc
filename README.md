@@ -6,7 +6,7 @@ I am a Computer Science researcher interested in the intersection of **climate s
 
 My work focuses on using computational and data-driven approaches to understand **rainfall variability, climate extremes, hydrological processes, and environmental risks**, particularly in data-constrained regions.
 
-## 🔬 Research Interests
+## Research Interests
 
 Hydrometeorology & Climate Science  
 Rainfall & Extreme Precipitation  
